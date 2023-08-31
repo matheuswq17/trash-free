@@ -1,0 +1,43 @@
+   
+    <main>
+        <div class="content1">
+            <h2>Adquira já o <br>app TrashFree</h2>
+            <h4>Nós te enviaremos um link,<br> abra-o em seu telefone <br> para baixar o app</h4>
+        </div>
+
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+            <label class="form-check-label" for="flexRadioDefault1" >
+              Celular
+            </label>
+
+        </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+            <label class="form-check-label" for="flexRadioDefault2">
+              E-Mail
+            </label>
+        </div>
+
+        <form class="row g-3">
+            <div class="col-auto">
+              <label for="inputPassword2" class="visually-hidden">Password</label>
+              <input type="password" class="form-control" id="inputPassword2" placeholder="Seu Número de Celular">
+            </div>
+            <div class="col-auto">
+              <button type="submit" class="btn btn-no-shadow text-light rounded" style="background-color: #3f523C;">Enviar</button>
+            </div>
+        </form>
+          
+        <h4>Download disponível em:</h4>
+
+        <a class="appstore" href="https://www.apple.com/br/app-store/">
+            <img src="./images/download-appstore.png" alt="download-appstore">
+        </a>
+
+        <a class="google" href="https://play.google.com/store/games?device=windows&&utm_source=latam_Med&utm_medium=hasem&utm_content=Dec1622&utm_campaign=Evergreen&pcampaignid=MKT-EDR-latam-br-1000189-Med-hasem-py-Evergreen-Dec1622-Text_Search_BKWS-id_102355_%7CEXA%7CONSEM_kwid_43700074755585158&gclid=Cj0KCQjw9MCnBhCYARIsAB1WQVVsXswVLYRWGaNKil4Nsk8aYMO8xmgqI-_oZrnGyBm7cI1hGp8GyUcaAq5LEALw_wcB&gclsrc=aw.ds">
+            <img src="./images/download-google.png" alt="download-google">
+        </a>
+
+        <img class="celular-aplicativo" src="images/Group 1.png" alt="celular thrashfree">
+    </main>
